@@ -6,18 +6,7 @@ def check_password_strength(password):
     elif not any(char.isdigit() for char in password):
         return "Weak: Password must contain at least one digit."
     elif not any(char.isupper() for char in password):
-        return "Weak: Password must contain at least one uppercase letter."
-    elif not any(char.islower() for char in password):
-        return "Weak: Password must contain at least one lowercase letter."
-    elif not any(char in "!@#$%^&*" for char in password):
-        return "Weak: Password must contain at least one special character."
-    return "Strong: Your password is strong."
-password = input("Enter a password to check its strength: ")
-strength = check_password_strength(password) 
-print(strength)
-
-
-
+        return "Weak: Pas
 
 
 
