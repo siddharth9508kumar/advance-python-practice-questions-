@@ -8,14 +8,13 @@ These programs simulate practical systems like billing, ticket booking, parking 
 ## 📂 Project Structure
 
 APython/
-│
-├── billing_system_for_retail.py      # Retail billing system simulation
-├── cart.py                           # Shopping cart functionality
-├── movie_ticket_bookingsystem.py     # Movie ticket booking system
-├── parking_lot_management.py         # Parking lot management system
-├── password_checker.py               # Password strength checker
-├── to_do_list_manager.py             # Task management system
-├── transaction_system.py             # Transaction handling system
+billing_system_for_retail.py      # Retail billing system simulation
+cart.py                           # Shopping cart functionality
+movie_ticket_bookingsystem.py     # Movie ticket booking system
+parking_lot_management.py         # Parking lot management system
+password_checker.py               # Password strength checker
+to_do_list_manager.py             # Task management system
+transaction_system.py             # Transaction handling system
 
 
 ### 🚀 Projects Included
