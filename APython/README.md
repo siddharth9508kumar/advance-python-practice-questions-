@@ -51,7 +51,7 @@ Simulates basic transaction operations such as recording and processing transact
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/advance-python-practice-questions.git
+git clone https://github.com/siddharth9508kumar/advance-python-practice-questions.git
 
 2️⃣ Navigate to the project folder
 
@@ -64,7 +64,9 @@ python filename.py
 Example:
 
 python parking_lot_management.py
-🎯 Purpose of this Repository
+
+
+##### 🎯 Purpose of this Repository
 
 Practice advanced Python programming
 
@@ -74,7 +76,7 @@ Build mini-projects for portfolio
 
 Demonstrate Python coding skills
 
-##### 🛠 Technologies Used
+###### 🛠 Technologies Used
 
 Python 3
 
